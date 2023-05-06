@@ -1,0 +1,19 @@
+.janela1{
+    width: 350px;
+    height: 350px;
+    background-color: hotpink;
+    text-align: center;
+
+}
+.janela2{
+    width: 350px;
+    height: 350px;
+    background-color: paleturquoise;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    font-weight: 500px;
+    padding: 45%;
+    
+}
